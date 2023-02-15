@@ -1,8 +1,8 @@
 ### Salve curioso, me contrata ai 👨‍💻 !!! 
 
-- 🔭 Na faculdade
-- 🌱 Estudando JavaScript / SQL Server
-- 😄 Pronomes: Ele/Dele
+- 🔭 Cursando Ciência da Computação |USP-RP|
+- 🌱 Estudando Java/Spring
+
 
 <!--
 **pedrohspassos/pedrohspassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
