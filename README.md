@@ -1,7 +1,7 @@
-### Salve curioso, me contrata ai 👨‍💻 !!! 
+ 
 
 - 🔭 Cursando Ciência da Computação |USP-RP|
-- 🌱 Estudando Java/Spring
+
 
 
 <!--
