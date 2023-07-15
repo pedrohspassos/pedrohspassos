@@ -11,6 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pedrohspassos&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrohspassos&theme=radical&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohspassos&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 ---
