@@ -1,29 +1,25 @@
  
+# 💫 About Me:
+Estudante Ciência da Computação |USP-RP|<br>A procura de um estágio
 
-- 🔭 Cursando Ciência da Computação |USP-RP|
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pedrohenq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrohspassos) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pedrohspassos&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pedrohspassos&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohspassos&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--
-**pedrohspassos/pedrohspassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pedrohspassos&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
--->
-<div align="center">
-  <a href="https://github.com/pedrohspassos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohspassos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohspassos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=pedrohspassos&icon=5&color=10)](https://visitcount.itsvg.in)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Rafa-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="right" height="150" style="border-radius:50px;"    
-</div>
-       
- 
-   
-           
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
             
           
           
