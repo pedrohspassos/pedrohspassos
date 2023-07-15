@@ -1,5 +1,5 @@
  
-# 💫 Pedro Passos:
+# 💫 About Me:
 📚 Estudante Ciência da Computação |USP-RP|<br>📌 A procura de um estágio!
 
 
