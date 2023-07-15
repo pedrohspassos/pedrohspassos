@@ -9,11 +9,8 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pedrohspassos&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pedrohspassos&theme=radical&hide_border=false)<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohspassos&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-
+![](https://github-readme-stats.vercel.app/api?username=pedrohspassos&theme=radical)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pedrohspassos&theme=radical)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=pedrohspassos&icon=5&color=10)](https://visitcount.itsvg.in)
 
