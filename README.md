@@ -1,6 +1,6 @@
  
-# 💫 About Me:
-📚Estudante Ciência da Computação |USP-RP|<br>📌A procura de um estágio!
+# 💫 Pedro Passos:
+📚 Estudante Ciência da Computação |USP-RP|<br>📌 A procura de um estágio!
 
 
 ## 🌐 Socials:
@@ -11,10 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pedrohspassos&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrohspassos&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohspassos&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pedrohspassos&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pedrohspassos&icon=5&color=10)](https://visitcount.itsvg.in)
