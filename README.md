@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&olasection=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=974EC3&height=120&olasection=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique+Passos;I'm+22+years+old;I+study+Computer+Science+at+USP|RP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=974EC3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique+Passos;I'm+22+years+old;I+study+Computer+Science+at+USP|RP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrohspassos&show_icons=true&count_private=true&hide_border=true&title_color=008080&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Henrique Passos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohspassos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api?username=pedrohspassos&show_icons=true&count_private=true&&hide_border=true&title_color=504099&icon_color=504099&text_color=974EC3&bg_color=0d1117" alt="Pedro Henrique Passos github stats" /> 
+  <img width="49%" loading="lazy" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohspassos&layout=compact&hide_border=true&title_color=504099&text_color=974EC3&bg_color=0d1117" />
 </div>
 
 ## 🌐 Socials:
@@ -41,7 +41,7 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=974EC3&height=120&section=footer"/>
 
 <!-- # 💫 About Me: 
 📚 Estudante Ciência da Computação |USP-RP|<br>📌 A procura de um estágio!
