@@ -17,7 +17,7 @@
 - 📷 [Labeling Textures](https://github.com/pedrohspassos/faculdade-Redes-Neurais): Use of neural networks (MLP) to extract, analyze and classify images according to their texture.
 - 🚢 [Predicted Survivors](https://github.com/pedrohspassos/predicted-survivors-titanic): Develop a model to predict Titanic passengers' survival.
 - 🔎 [Data Analysis](https://github.com/pedrohspassos/Analise_dados_turbina_eolica): Case study of a wind turbine dataset and analysis of its behavior.
-- 🏠 [Real Estate Purchase Prediction](https://github.com/pedrohspassos/desafio-pratico-ciencia-dados): Case study of a real estate website user dataset and analysis of factors influencing home purchase decisions.
+- 🏠 [Real Estate Purchase Prediction](https://github.com/pedrohspassos/desafio-pratico-ciencia-dados): Case study and analysis of the factors that influence decisions to buy a house.
 - 🌡 [Temperature Conversion](https://github.com/pedrohspassos/conversao_temperatura_rna): Building a simple neural network for temperature conversion.
 
   
